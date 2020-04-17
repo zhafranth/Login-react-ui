@@ -2,7 +2,7 @@
 This project use React to build single page login and 
 This project inspire by dribbble shoot by [Prakhar Neel Sharma](https://dribbble.com/shots/4815934-Login-Ver-2)
 
-![Demo](demo.gif)
+![Demo](Demo.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
